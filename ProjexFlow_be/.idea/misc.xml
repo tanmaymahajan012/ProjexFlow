@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ALS/pom.xml" />
+        <option value="$PROJECT_DIR$/GMS/pom.xml" />
+        <option value="$PROJECT_DIR$/NMS/pom.xml" />
+        <option value="$PROJECT_DIR$/PMS/pom.xml" />
+        <option value="$PROJECT_DIR$/TMS/pom.xml" />
+        <option value="$PROJECT_DIR$/UMS/pom.xml" />
+        <option value="$PROJECT_DIR$/MAMS/pom.xml" />
+        <option value="$PROJECT_DIR$/Eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/Gateway/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_23" default="true" project-jdk-name="openjdk-23" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

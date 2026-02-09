@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ALS/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GMS/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MAMS/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NMS/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PMS/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TMS/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UMS/src/main/java" charset="UTF-8" />
+  </component>
+</project>
